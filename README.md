@@ -1,4 +1,4 @@
-# Game Fart_Faight
+# Game Fart_Fight
 Jogo no Estilo JoKenPo, criado especialmente para o meu sobrinho de 7 anos.
 Primeiro app utilizando os conhecimentos aprendidos no curso de Desenvolvimento de Aplicativos
 Android Studio - Kotlin da **Escola de Programação Cel.Lep Tech**.
